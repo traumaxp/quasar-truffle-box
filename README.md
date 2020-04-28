@@ -2,10 +2,6 @@
 
 Ethereum dApp starter project 
 
-## Demo
-
-[Coinswaps.xyz](https://coinswaps.xyz/)
-
 ## Built With
 
 - [Quasar Framework](https://quasar-framework.org/)
