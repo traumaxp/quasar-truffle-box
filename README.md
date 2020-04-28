@@ -7,6 +7,7 @@ Ethereum dApp starter project
 - [Quasar Framework](https://quasar-framework.org/)
 - [Truffle](https://truffleframework.com/)
 - [Drizzle](https://www.trufflesuite.com/docs/drizzle/overview)
+- [Ganache](https://www.trufflesuite.com/docs/ganache/overview)
 - [Vuex](https://vuex.vuejs.org/)
 
 ## Getting Started
