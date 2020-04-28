@@ -1,27 +1,31 @@
-# Quasar App (trufflequasar)
+# Quasar Truffle Box
 
-A Quasar Framework app
+Ethereum dApp starter project 
 
-## Install the dependencies
-```bash
+## Demo
+
+[Coinswaps.xyz](https://coinswaps.xyz/)
+
+## Built With
+
+- [Quasar Framework](https://quasar-framework.org/)
+- [Truffle](https://truffleframework.com/)
+- [Drizzle](https://www.trufflesuite.com/docs/drizzle/overview)
+- [Vuex](https://vuex.vuejs.org/)
+
+## Getting Started
+
+```sh
+npm install -g quasar-cli@latest vue-cli@latest
 npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
 quasar dev
 ```
 
-### Lint the files
-```bash
-npm run lint
-```
+## Building
 
-### Build the app for production
-```bash
+Project can be built as an SPA, PWA, SSR-enabled, or electron app. [Quasar Docs](https://quasar-framework.org/)
+
+```sh
 quasar build
 ```
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
-# quasar-truffle-box
